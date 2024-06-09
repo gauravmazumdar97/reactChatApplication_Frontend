@@ -1,0 +1,7 @@
+.ChatCSS {
+    min-height: 100vh;
+    display: flex;
+    background-image: url("/src/Pages/chatBG.jpg");
+    background-position: center;
+    background-size: cover;
+  }
