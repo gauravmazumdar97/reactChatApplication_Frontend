@@ -1,4 +1,4 @@
-# 📱 Chat Application Frontend
+#  Chat Application Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
@@ -21,9 +21,6 @@ This is a frontend project for a chat application developed using React.js and A
 - **Database**: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 - **Cloud Services**: ![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900)
 
-## 🚀 Demo
-
-![Demo](demo.gif)
 
 ## 📋 Prerequisites
 
